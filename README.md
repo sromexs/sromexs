@@ -1,4 +1,4 @@
-## Hi there I am Sadra 👋
+## I am Sadra 👋
 
 #### Available for a remote job:
 
