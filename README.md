@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/twitter/url?label=Sadra%20Bahrami&logo=linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsromexs%2F)](https://linkedin.com/in/sromexs/) 
 
 
-#### Skills:
+#### My main skills:
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></br>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></br>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></br>
